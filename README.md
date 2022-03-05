@@ -1,5 +1,5 @@
 # Remove Google Drive checkmarks on folders
-Automatically removes all green (or other) checkmarks from your synced folders for a cleaner and more organized look.  
+Automatically removes all checkmarks from your synced folders for a cleaner and more organized look.  
 In case the marks appear again after an update just relaunch the script.
 
 # How to run?
