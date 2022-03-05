@@ -8,4 +8,4 @@ Removes green (or other) checks from your synced Windows folders for a cleaner m
 4. Enjoy!
 
 # Special thanks
-Matt for the Automatically check & get admin rights script - https://stackoverflow.com/users/1016343/matt
+**Matt** for the Automatically check & get admin rights script - https://stackoverflow.com/users/1016343/matt
