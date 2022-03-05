@@ -1,5 +1,6 @@
 # Disable Google Drive checkmarks on folders
-Removes green (or other) checks from your synced Windows folders for a cleaner more organized look
+Removes green (or other) checks from your synced Windows folders for a cleaner more organized look.
+In case the marks appear again after an update just relaunch the script as before.
 
 # How to run?
 1. Download the .bat file
