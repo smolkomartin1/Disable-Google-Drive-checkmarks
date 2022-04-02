@@ -53,7 +53,8 @@ Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOv
 Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\    GoogleDrivePinnedOverlayIconHandler" /ve /t REG_SZ /d "0" /f
 Reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers\    GoogleDriveProgressOverlayIconHandler" /ve /t REG_SZ /d "0" /f
 ECHO **************************************	
-ECHO Google Drive checkmarks successfully removed^^! Have a nice day^^!
+ECHO Google Drive checkmarks successfully removed^^!
+ECHO Restart the computer for changes to take effect and have a nice day^^!
 pause
 Exit
 
